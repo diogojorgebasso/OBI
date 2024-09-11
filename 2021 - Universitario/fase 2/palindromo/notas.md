@@ -1,0 +1,2 @@
+o grande problema dessa exercicio é saber identificar a recursão e lidar bem com os valores das pontas do vetor.
+Acredito que a solução que criei não é a mais eficiente, nem a mais bonita. Mas ela funciona.
